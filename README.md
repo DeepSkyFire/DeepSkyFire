@@ -26,6 +26,6 @@ So If you want to know more about me, you can visit my TechBlog or my dedicated 
 
 --------------------------------------------
 
-THANK FOR NOTICING. 🙇‍
+THANK YOU FOR YOUR ATTENTION. 🙇‍
 
 ![null](https://analytics.deepskyfire.com/matomo.php?idsite=mnJj3D5K&rec=1)
