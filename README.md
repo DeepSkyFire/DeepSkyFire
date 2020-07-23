@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: [📧 i@deepskyfire.com](mailto:i@deepskyfire.com)
 
-Hello everybody, I'm DeepSkyFire. It's CyberSecurity & Infrastructure Enginer & Backend Developer liveing in Japan. 
+Hello everybody, I'm DeepSkyFire. It's CyberSecurity & Infrastructure Enginer and Backend Developer liveing in Japan. 
 
 And my working language: English, Japanese, Chinese(Traditional/Simplified), Taiwanese, Cantonese.
 
