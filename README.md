@@ -11,7 +11,7 @@
 - 📫 How to reach me: [📧 i@deepskyfire.com](mailto:i@deepskyfire.com)
 - 📖 Working Language: English, Japanese, Chinese(Traditional/Simplified), Taiwanese, Cantonese.
 
-Hello everybody, I'm DeepSkyFire, and I'm an CyberSecurity & Infrastructure Enginer and Backend Developer liveing in Japan. 
+Hello everybody, I'm DeepSkyFire, and I'm an SRE and OPS liveing in Japan. 
 
 The main development languages I use are PHP/Go/Python/Shell/C#/VB.Net and more. But I develop mainly for infrastructure, so I don't have a lot of projects that can be open sourced. 
 
